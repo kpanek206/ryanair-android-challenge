@@ -1,0 +1,3 @@
+Zadanie 3
+
+a) Średnia długość łamanych: 25646.262711856976

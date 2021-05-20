@@ -1,0 +1,5 @@
+Zadanie 2
+(Długość oraz pola zapisane w formacie double)
+a)Długość wszystkich obiektów: 2.2606696316092553E9
+b)Pola prostokątów: 3.65808044785E11; Pola kół: 3.500511308324983E12
+c)Ilość łamanych: 29872; Ilość kół: 33404; Ilość prostokątów: 33455
